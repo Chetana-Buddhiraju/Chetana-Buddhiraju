@@ -12,7 +12,7 @@ AI/ML engineer building production LLM systems, RAG pipelines, multi-agent workf
 - **Reach me:** [LinkedIn](https://www.linkedin.com/in/chetana-buddhiraju-512971272/) · [Portfolio](https://portfolio.com/)
 - **Fun fact:** I'm also a 12+ year trained Kuchipudi dancer. I've performed at the India AI Impact Summit in front of PM Modi, President Macron, and Sundar Pichai. 
 
-**Precision and rigor — same discipline, different stage.**
+**Precision and rigor. Same discipline, different stage.**
 
 <br>
 
@@ -39,7 +39,7 @@ AI/ML engineer building production LLM systems, RAG pipelines, multi-agent workf
 ## Featured Projects
 
 #### 🔎 [RAG Knowledge Assistant](https://github.com/Chetana-Buddhiraju/rag-knowledge-assistant)
-Enterprise RAG system built around six named failure modes (bad chunking, multi-doc retrieval, version conflicts, hallucination, ambiguity, access control) — with a baseline-vs-fixed architecture and a real eval harness measuring the before/after.
+Enterprise RAG system built around six named failure modes (bad chunking, multi-doc retrieval, version conflicts, hallucination, ambiguity, access control), with a baseline-vs-fixed architecture and a real eval harness measuring the before/after.
 
 `Python` `Azure OpenAI` `Azure AI Search` `Hybrid Retrieval` `Eval Harness`
 
@@ -49,7 +49,7 @@ A 5-agent pipeline (parse → route → solve → verify → explain) that takes
 `Python` `Streamlit` `OpenAI API` `RAG` `Multi-Agent`
 
 #### 📊 [Insurance Enrollment ML](https://github.com/Chetana-Buddhiraju/insurance-enrollment-ml)
-End-to-end ML pipeline predicting employee insurance enrollment — model comparison, MLflow experiment tracking, and a FastAPI endpoint for serving predictions.
+End-to-end ML pipeline predicting employee insurance enrollment, complete with model comparison, MLflow experiment tracking, and a FastAPI endpoint for serving predictions.
 
 `Python` `scikit-learn` `XGBoost` `MLflow` `FastAPI`
 
