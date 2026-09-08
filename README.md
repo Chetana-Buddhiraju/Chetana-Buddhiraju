@@ -38,15 +38,15 @@ AI/ML engineer building production LLM systems, RAG pipelines, multi-agent workf
 
 ## Featured Projects
 
-#### 🔎 [RAG Knowledge Assistant](https://github.com/Chetana-Buddhiraju/rag-knowledge-assistant)
-Enterprise RAG system built around six named failure modes (bad chunking, multi-doc retrieval, version conflicts, hallucination, ambiguity, access control), with a baseline-vs-fixed architecture and a real eval harness measuring the before/after.
-
-`Python` `Azure OpenAI` `Azure AI Search` `Hybrid Retrieval` `Eval Harness`
-
 #### 🧮 [AI Math Mentor](https://github.com/Chetana-Buddhiraju/Multimodal-Math-Mentor-App)
 A 5-agent pipeline (parse → route → solve → verify → explain) that takes text, image, or audio math problems, grounds answers in a curated RAG knowledge base, and escalates to a human when confidence is low.
 
 `Python` `Streamlit` `OpenAI API` `RAG` `Multi-Agent`
+
+#### 🔎 [RAG Knowledge Assistant](https://github.com/Chetana-Buddhiraju/rag-knowledge-assistant)
+Enterprise RAG system built around six named failure modes (bad chunking, multi-doc retrieval, version conflicts, hallucination, ambiguity, access control), with a baseline-vs-fixed architecture and a real eval harness measuring the before/after.
+
+`Python` `Azure OpenAI` `Azure AI Search` `Hybrid Retrieval` `Eval Harness`
 
 #### 📊 [Insurance Enrollment ML](https://github.com/Chetana-Buddhiraju/insurance-enrollment-ml)
 End-to-end ML pipeline predicting employee insurance enrollment, complete with model comparison, MLflow experiment tracking, and a FastAPI endpoint for serving predictions.
