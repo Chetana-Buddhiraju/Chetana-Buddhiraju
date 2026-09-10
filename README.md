@@ -9,7 +9,7 @@
 AI/ML engineer building production LLM systems, RAG pipelines, multi-agent workflows, and structured-output services that go past a notebook and into an actual API. Currently at KESS, previously at Edventures AI and Singapore General Hospital, with an M.Tech in AI Systems from NUS and a B.Tech in Math & Computation Engineering underneath it.
 
 - **Currently building:** a LangGraph support chatbot with RAG (Qdrant + OpenAI embeddings, served via FastAPI) and a bilingual LLM-driven HR analytics report pipeline @ [KESS](https://konguess.com/)
-- **Reach me:** [LinkedIn](https://www.linkedin.com/in/chetana-buddhiraju-512971272/) · [Portfolio](https://portfolio.com/)
+- **Reach me:** [LinkedIn](https://www.linkedin.com/in/chetana-buddhiraju-512971272/) · [Portfolio](https://chetana-buddhiraju.github.io/)
 - **Fun fact:** I'm also a 12+ year trained Kuchipudi dancer. I've performed at the India AI Impact Summit in front of PM Modi, President Macron, and Sundar Pichai. 
 
 **Precision and rigor. Same discipline, different stage.**
